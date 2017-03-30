@@ -1,0 +1,89 @@
+/* Here goes your CSS */
+h1, h2, h3{
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
+h1{
+  color: #DD5555;
+  font-size: 22px;
+  text-align: center;
+}
+
+h2{
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+}
+
+h3{
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+}
+
+h4{
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.img-circle{
+  border-radius: 50%;
+}
+
+.btn-red{
+  background-color: #C61414;
+  color: white;
+}
+
+.btn-red {
+    background-color: #DD5555;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+
+body {
+    background: #EBEBEB;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+
+tr{
+  color: #DD5555;
+  font-size: 22px;
+}
+
+.container {
+  width: 500px;   /* Set width */
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    text-align: center;
+}
+
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
